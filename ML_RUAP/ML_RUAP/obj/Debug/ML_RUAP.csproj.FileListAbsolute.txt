@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\ML_RUAP.exe.config
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\ML_RUAP.exe
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\ML_RUAP.pdb
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\obj\Debug\ML_RUAP.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\obj\Debug\ML_RUAP.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\obj\Debug\ML_RUAP.csproj.CopyComplete
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\obj\Debug\ML_RUAP.exe
+C:\Users\student\Desktop\ruap_lv6\RUAP_LV6\ML_RUAP\ML_RUAP\obj\Debug\ML_RUAP.pdb
